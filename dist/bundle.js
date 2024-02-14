@@ -1,0 +1,1 @@
+(()=>{"use strict";document.querySelectorAll("nav a").forEach((function(t){t.addEventListener("click",(function(t){t.preventDefault();var e=this.getAttribute("href");window.location.href=e}))}))})();
